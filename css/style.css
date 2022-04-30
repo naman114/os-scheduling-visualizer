@@ -122,3 +122,20 @@ canvas {
 .fcfs-input2 {
   margin: 120px 0 0 0;
 }
+
+.table-row {
+  display: flex;
+  gap: 10px;
+}
+
+.input-form {
+  display: flex;
+  gap: 50px;
+}
+.data-input {
+  width: 50px;
+}
+
+.table-row-item {
+  width: 200px;
+}
